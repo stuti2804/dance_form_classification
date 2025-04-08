@@ -1,4 +1,4 @@
-# Dance Pose Classification
+# Dance Form Classification
 
 This project performs image classification on dance styles using deep learning for feature extraction and traditional machine learning classifiers for prediction.
 
